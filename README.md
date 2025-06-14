@@ -26,7 +26,7 @@
 
 | Upload Image | Prediction Result |
 |--------------|-------------------|
-| ![upload](https://github.com/devansh7444/Forest_Fire/blob/c58b2550df9338a9b0d16ed3b9329b95db179c0d/image.png) | ![result](https://via.placeholder.com/300x150.png?text=Prediction:+Fire+🔥) |
+| ![upload](https://github.com/devansh7444/Forest_Fire/blob/c58b2550df9338a9b0d16ed3b9329b95db179c0d/image.png) | ![result](https://github.com/devansh7444/Forest_Fire/blob/7f140db20c890d6cbca61fb82aa3b87d7d68596b/image.png) |
 
 ---
 
